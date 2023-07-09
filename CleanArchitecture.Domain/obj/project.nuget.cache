@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wElgNkBDhoI64hkiTJ6hGdCxLq21wPfMLWyLJ9ZKO8hvb4/gX951fwHDJMxTy6QOBC9ESe/zpjBYQ4qdriM2Hw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Leandro\\Documents\\Leandro\\Clean\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leandro\\.nuget\\packages\\extensions.fluentvalidation.br\\1.0.2\\extensions.fluentvalidation.br.1.0.2.nupkg.sha512",
+    "C:\\Users\\Leandro\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

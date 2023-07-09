@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "eCMbvwXB/UXuNq5gejK5Osm5A1cCpGSwg01GkJx48bUw3CS0F/06TarmlvXU7PAAYVsN+BwzTi7I+GcUsqsVHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Leandro\\Documents\\Leandro\\Clean\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leandro\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Leandro\\.nuget\\packages\\extensions.fluentvalidation.br\\1.0.2\\extensions.fluentvalidation.br.1.0.2.nupkg.sha512",
+    "C:\\Users\\Leandro\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
+    "C:\\Users\\Leandro\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
